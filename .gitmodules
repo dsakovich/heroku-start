@@ -1,0 +1,3 @@
+[submodule "heroku-start"]
+	path = heroku-start
+	url = https://git.heroku.com/heroku-start.git
